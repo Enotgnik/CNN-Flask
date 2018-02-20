@@ -55,10 +55,9 @@ Train:
   python3 eval.py --eval_train --checkpoint_dir="./runs/1518619812/checkpoints/"
 ```
 
-## Evaluating using interactive session --allows you to type sentences
+## Run Flask
 
 ```
- python3 eval.py --interactive --checkpoint_dir="./runs/1518619812/checkpoints/"
+ python2 app.py
 ```
-Replace the checkpoint dir with the output from the training. To use your own data, change the `eval.py` script to load your data.
 
