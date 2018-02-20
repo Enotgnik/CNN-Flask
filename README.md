@@ -58,6 +58,6 @@ Train:
 ## Run Flask
 
 ```
- python2 app.py
+ python3 app.py
 ```
 
