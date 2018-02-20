@@ -3,9 +3,9 @@ class snService():
 
     def createINC(sentence, prediction):
 
-        instance = "caidev"
-        user = "prediction.bot"
-        password = "Welcome1"
+        instance = "insance"
+        user = "user"
+        password = "pass"
 
         import pysnow
 
